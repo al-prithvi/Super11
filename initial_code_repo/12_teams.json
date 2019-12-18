@@ -1,0 +1,62 @@
+{ "1" : {
+    "SRH" : ["NV Ojha", "DA Warner", "S Dhawan", "MC Henriques", "Yuvraj Singh", "DJ Hooda", "BCJ Cutting", "B Kumar", "Bipul Sharma", "A Nehra", "Rashid Khan"],
+    "RCB" : ["KM Jadhav", "TM Head", "CH Gayle", "Mandeep Singh", "SR Watson", "Sachin Baby", "STR Binny", "S Aravind", "TS Mills", "YS Chahal", "A Choudhary"], 
+    "WicketKeeper" : ["NV Ojha", "KM Jadhav"]
+  },
+  "7" : {
+    "MI" : ["PA Patel", "KH Pandya", "N Rana", "HH Pandya", "SL Malinga", "KA Pollard", "MJ McClenaghan", "JC Buttler", "JJ Bumrah", "RG Sharma", "Harbhajan Singh"],
+    "KKR" : ["RV Uthappa", "MK Pandey", "G Gambhir", "CA Lynn", "YK Pathan", "SA Yadav", "CR Woakes", "SP Narine", "AS Rajpoot", "Kuldeep Yadav", "TA Boult"],
+    "WicketKeeper" : ["PA Patel", "RV Uthappa" ]
+  },
+  "10": {
+    "MI" :["PA Patel", "JJ Bumrah", "N Rana", "Harbhajan Singh", "KH Pandya","KA Pollard", "HH Pandya", "SL Malinga", "MJ McClenaghan", "JC Buttler", "RG Sharma"],
+    "SRH" : ["NV Ojha", "B Kumar", "S Dhawan", "DA Warner", "DJ Hooda", "Rashid Khan", "A Nehra", "Yuvraj Singh", "V Shankar", "Mustafizur Rahman", "BCJ Cutting"],
+    "WicketKeeper" : ["PA Patel", "NV Ojha"]
+  },
+  "12": {
+    "RCB":["KM Jadhav", "AB de Villiers", "S Badree", "V Kohli", "CH Gayle", "STR Binny", "YS Chahal", "P Negi", "S Aravind",  "Mandeep Singh", "TS Mills"],
+    "MI":["PA Patel", "KA Pollard", "KH Pandya", "MJ McClenaghan", "HH Pandya", "N Rana", "JC Buttler", "JJ Bumrah",  "RG Sharma", "TG Southee", "Harbhajan Singh"],
+    "WicketKeeper" : ["KM Jadhav", "PA Patel"]
+  },
+  "14": {
+    "KKR":["RV Uthappa","MK Pandey", "CR Woakes", "YK Pathan", "SP Narine", "Kuldeep Yadav", "TA Boult", "G Gambhir", "C de Grandhomme", "SA Yadav", "UT Yadav"],
+    "SRH":["NV Ojha", "B Kumar", "BCJ Cutting", "DA Warner", "Rashid Khan", "Yuvraj Singh", "S Dhawan", "A Nehra", "Bipul Sharma", "MC Henriques", "DJ Hooda"],
+    "WicketKeeper" : ["RV Uthappa", "NV Ojha"]
+  },
+  "27":{
+    "KKR":["RV Uthappa", "CR Woakes", "NM Coulter-Nile", "C de Grandhomme", "SP Narine", "MK Pandey", "UT Yadav", "SA Yadav", "G Gambhir", "Kuldeep Yadav", "YK Pathan"],
+    "RCB":["KM Jadhav", "AB de Villiers", "YS Chahal", "TS Mills", "P Negi", "S Aravind", "STR Binny", "S Badree", "Mandeep Singh", "CH Gayle", "V Kohli"],
+    "WicketKeeper" : ["RV Uthappa", "KM Jadhav"]
+  },
+  "36":{
+    "SRH":["NV Ojha", "DA Warner", "S Kaul", "B Kumar", "Mohammed Siraj", "Rashid Khan", "KS Williamson", "S Dhawan", "Yuvraj Singh", "MC Henriques", "Bipul Sharma"],
+    "KKR":["RV Uthappa", "CR Woakes","G Gambhir","C de Grandhomme", "SP Jackson", "YK Pathan", "Kuldeep Yadav", "NM Coulter-Nile", "SP Narine", "UT Yadav", "MK Pandey" ],
+    "WicketKeeper" : ["NV Ojha", "RV Uthappa"]
+  },
+  "37":{
+    "RCB":["KM Jadhav", "AB de Villiers", "P Negi", "TM Head", "YS Chahal", "SR Watson", "A Choudhary", "V Kohli", "Mandeep Singh", "S Aravind", "AF Milne"],
+    "MI":["PA Patel", "RG Sharma", "MJ McClenaghan", "KH Pandya", "JC Buttler", "KA Pollard", "KV Sharma", "JJ Bumrah", "HH Pandya", "N Rana", "SL Malinga"],
+    "WicketKeeper" : ["KM Jadhav", "PA Patel"]
+  },
+  "45": {
+    "RCB" : ["KM Jadhav", "AB de Villiers", "TM Head", "Mandeep Singh", "P Negi", "A Choudhary", "YS Chahal", "V Kohli", "S Aravind", "S Badree", "CH Gayle"],
+    "KKR" : ["SP Jackson", "SP Narine", "UT Yadav", "CA Lynn", "C de Grandhomme", "CR Woakes", 
+      "G Gambhir", "MK Pandey", "PP Chawla", "AS Rajpoot", "YK Pathan"],
+      "WicketKeeper" : ["KM Jadhav", "SP Jackson"]
+  },
+  "47": {
+    "MI" : ["PA Patel", "RG Sharma", "MJ McClenaghan", "JJ Bumrah", "SL Malinga", "HH Pandya", "KV Sharma", "N Rana", "KA Pollard", "LMP Simmons", "Harbhajan Singh"],
+    "SRH" : ["NV Ojha", "B Kumar", "MC Henriques", "Rashid Khan", "S Dhawan", "Mohammad Nabi", "V Shankar", "DA Warner", "Yuvraj Singh",  "Mohammed Siraj", "S Kaul"],
+    "WicketKeeper" : ["PA Patel", "NV Ojha"]
+  },
+  "53": {
+    "MI": ["AT Rayudu", "LMP Simmons", "SS Tiwary", "HH Pandya", "TG Southee", "R Vinay Kumar", "RG Sharma", "KV Sharma", "MG Johnson", "KA Pollard", "KH Pandya"],
+    "KKR": ["RV Uthappa", "TA Boult", "Kuldeep Yadav", "MK Pandey", "C de Grandhomme", "YK Pathan", "CA Lynn", "AS Rajpoot", "G Gambhir", "UT Yadav", "SP Narine"],
+    "WicketKeeper" : ["AT Rayudu", "RV Uthappa"]
+  },
+  "57": {
+    "SRH": ["NV Ojha", "DA Warner", "B Kumar", "KS Williamson", "V Shankar", "CJ Jordan", "S Dhawan", "Yuvraj Singh", "Bipul Sharma", "S Kaul", "Rashid Khan"],
+    "KKR": ["RV Uthappa", "NM Coulter-Nile", "UT Yadav", "G Gambhir", "PP Chawla", "TA Boult","CA Lynn", "SA Yadav", "IR Jaggi", "SP Narine", "YK Pathan"],
+    "WicketKeeper" : ["NV Ojha", "RV Uthappa"]
+  }
+}
